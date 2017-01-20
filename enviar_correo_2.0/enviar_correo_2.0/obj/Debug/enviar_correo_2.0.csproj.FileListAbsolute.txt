@@ -1,0 +1,7 @@
+c:\users\jose.agraz\documents\visual studio 2012\Projects\enviar_correo_2.0\enviar_correo_2.0\obj\Debug\enviar_correo_2._0.Form1.resources
+c:\users\jose.agraz\documents\visual studio 2012\Projects\enviar_correo_2.0\enviar_correo_2.0\obj\Debug\enviar_correo_2._0.Properties.Resources.resources
+c:\users\jose.agraz\documents\visual studio 2012\Projects\enviar_correo_2.0\enviar_correo_2.0\obj\Debug\enviar_correo_2.0.csproj.GenerateResource.Cache
+c:\users\jose.agraz\documents\visual studio 2012\Projects\enviar_correo_2.0\enviar_correo_2.0\bin\Debug\enviar_correo_2.0.exe
+c:\users\jose.agraz\documents\visual studio 2012\Projects\enviar_correo_2.0\enviar_correo_2.0\bin\Debug\enviar_correo_2.0.pdb
+c:\users\jose.agraz\documents\visual studio 2012\Projects\enviar_correo_2.0\enviar_correo_2.0\obj\Debug\enviar_correo_2.0.exe
+c:\users\jose.agraz\documents\visual studio 2012\Projects\enviar_correo_2.0\enviar_correo_2.0\obj\Debug\enviar_correo_2.0.pdb
